@@ -46,7 +46,7 @@ $user = isset($_SESSION['user_first']) ? $_SESSION['user_first'] : 'Guest';
 
 <div class="video-container">
 <video autoplay loop muted id="styles-video">
-        <source src="WalkingVideoCanva.mp4" type="video/mp4" />
+        <source src="videos/WalkingVideoCanva.mp4" type="video/mp4" />
         Your browser does not support the video tag.
 </video>
 </div>
